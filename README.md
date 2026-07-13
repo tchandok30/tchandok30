@@ -1,25 +1,124 @@
+<div align="center">
 
-# 💫 About Me:
-## 👋 Introduction<br><br>Hi! I'm **Tanisha Chandok**, an undergraduate student in **Mathematics & Computing** at **NIT Hamirpur**, passionate about software engineering, artificial intelligence, and building technology that creates real-world impact. I enjoy solving complex problems, exploring the intersection of mathematics and computing, and transforming ideas into scalable, user-focused applications.<br><br>---<br><br>## 🚀 About Me<br><br>* 🎓 Pursuing **B.Tech in Mathematics & Computing** at **NIT Hamirpur**<br>* 💻 Passionate about **Software Engineering, AI/ML, and Full-Stack Development**<br>* 🧠 Love building **developer tools, AI-powered applications, and interactive computer science visualizers**<br>* 🌱 Currently deepening my knowledge of **System Design, Advanced DSA, and scalable backend systems**<br>* 🏆 Active in **hackathons, open source, and competitive programming**<br>* 🚀 Always striving to build projects that combine **strong engineering, clean design, and meaningful impact**<br>* ⚡ I believe the best software doesn't just solve problems—it helps people understand them better.<br>
+# Hi 👋, I'm **Tanisha Chandok**
 
+### 🎓 Mathematics & Computing Undergraduate @ NIT Hamirpur
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanisha-chandok-77a185349) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishachandok@gmail.com) 
+### 💻 Aspiring Software Engineer | Full Stack Developer | AI Enthusiast
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tchandok30&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=tchandok30&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tchandok30&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Enthusiast;Full+Stack+Developer;Competitive+Programmer;Building+Real-World+Projects;Always+Learning+🚀" alt="Typing SVG" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tchandok30&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+<img src="https://komarev.com/ghpvc/?username=tchandok30&label=Profile%20Views&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+
+<img src="https://img.shields.io/github/followers/tchandok30?style=for-the-badge&logo=github" alt="Followers"/>
+
+<img src="https://img.shields.io/github/stars/tchandok30?style=for-the-badge&logo=github" alt="Stars"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=tchandok30&icon=7&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+Hi! I'm **Tanisha Chandok**, a **Mathematics & Computing** undergraduate at **NIT Hamirpur** with a strong interest in **Software Engineering**, **Backend Development**, and **Artificial Intelligence**.
+
+I enjoy solving challenging problems, building scalable web applications, and continuously improving my problem-solving skills through **Data Structures & Algorithms**.
+
+I'm currently focused on strengthening my software engineering fundamentals by building real-world projects and preparing for internship opportunities.
+
+---
+
+## 🚀 Current Focus
+
+- 💻 Preparing for **Software Engineering Internships**
+- 🧠 Solving **Data Structures & Algorithms** on LeetCode
+- 🌐 Building **Full Stack Web Applications**
+- ⚙️ Learning **System Design & Backend Engineering**
+- ☁️ Exploring **Cloud Fundamentals**
+- 🚀 Contributing to Open Source and Hackathons
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/tanisha-chandok-77a185349/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:tanishachandok@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://github.com/tchandok30">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css"/>
+</p>
+
+### ⚛️ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,redux,nextjs"/>
+</p>
+
+### 🖥️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+### ☁️ Cloud & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify"/>
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| ✈️ **Aero-H** | A modern web application with a for resource optimization for doctors. |
+| 🏨 **Hostel Management System** | Full-stack application to manage hostel operations efficiently. |
+| 🌐 **Portfolio Website** | Personal portfolio showcasing my projects, skills, and journey. |
+| ⚛️ **React Series** | Collection of React projects built while exploring modern frontend development. |
+
+---
+
+# 🎯 Goals for 2026
+
+- ✅ Strengthen Data Structures & Algorithms
+- 🚀 Build impactful Full Stack projects
+- ☁️ Learn Cloud & Backend Architecture
+- 🏆 Participate in Hackathons
+- 💼 Secure a Software Engineering Internship
+- 📚 Deepen knowledge of System Design
