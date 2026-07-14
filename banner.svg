@@ -1,0 +1,68 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#0f172a"/>
+<stop offset="100%" stop-color="#312e81"/>
+</linearGradient>
+
+<linearGradient id="txt" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#38bdf8"/>
+<stop offset="100%" stop-color="#8b5cf6"/>
+</linearGradient>
+
+</defs>
+
+<rect width="1200" height="300" fill="url(#bg)"/>
+
+<circle cx="1000" cy="70" r="90" fill="#2563eb" opacity="0.15"/>
+<circle cx="1080" cy="220" r="120" fill="#7c3aed" opacity="0.12"/>
+<circle cx="150" cy="230" r="100" fill="#06b6d4" opacity="0.10"/>
+
+<text
+x="70"
+y="110"
+fill="url(#txt)"
+font-size="46"
+font-family="Segoe UI"
+font-weight="700">
+
+Tanisha Chandok
+
+</text>
+
+<text
+x="70"
+y="155"
+fill="#ffffff"
+font-size="24"
+font-family="Segoe UI">
+
+Software Engineer • Mathematics & Computing • NIT Hamirpur
+
+</text>
+
+<text
+x="70"
+y="205"
+fill="#cbd5e1"
+font-size="19"
+font-family="Segoe UI">
+
+Building scalable web applications and solving real-world problems.
+
+</text>
+
+<text
+x="70"
+y="235"
+fill="#38bdf8"
+font-size="18"
+font-family="Segoe UI">
+
+React • Node.js • MongoDB • JavaScript • DSA
+
+</text>
+
+</svg>
