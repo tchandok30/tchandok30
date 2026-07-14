@@ -43,11 +43,30 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| **AERO-H** | Emergency response platform powered by AI |
-| **Hostem Mangement System** | A system for hostel permissions and outpass control. |
-| **Portfolio** | Interactive developer portfolio |
+### 🤖 AERO-H
+**AI-powered emergency response platform** for disaster management, rescue coordination, and real-time assistance.
+
+🔗 **Repository:** https://github.com/anilove23/AERO-H
+
+**Tech:** React • Tailwind CSS • Leaflet.js • Gemini API
+
+---
+
+### 🏨 Hostel Management System
+A digital hostel management system with **outpass requests, leave approvals, student records, and admin dashboard**.
+
+🔗 **Repository:** https://github.com/tchandok30/Collegeproject-
+
+**Tech:** React • Tailwind Css • Api • Redux
+
+---
+
+### 🌐 Portfolio
+A modern developer portfolio showcasing **projects, skills, achievements, and contact information** with a responsive UI.
+
+🔗 **Repository:** https://github.com/tchandok30/portfolio_website
+
+**Tech:** React • Tailwind CSS • Framer motion 
 
 ---
 
