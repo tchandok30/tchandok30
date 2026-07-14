@@ -79,12 +79,6 @@
 <img src="https://komarev.com/ghpvc/?username=tchandok30&style=for-the-badge&color=0e75b6"/>
 </p>
 
-## 🐍 Contribution Snake
-
-> Enable the Platane/SNK GitHub Action to display your contribution snake:
->
-> `https://raw.githubusercontent.com/tchandok30/tchandok30/output/github-contribution-grid-snake-dark.svg`
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=120&section=footer"/>
 </p>
